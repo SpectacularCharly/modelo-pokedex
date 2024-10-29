@@ -1,1 +1,10 @@
-pokedex-model-dca15c7f2eca.json
+# Ignorar archivos de configuración
+*.json
+*.env
+
+# Ignorar directorios de entornos virtuales
+venv/
+
+# Ignorar archivos temporales
+*.tmp
+
